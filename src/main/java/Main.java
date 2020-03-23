@@ -36,11 +36,11 @@ public class Main {
         System.out.println("============= \t \t =============");
         System.out.println("Price 3.23 \t\t\t seen: "+new Main().nmbrOfOccurrences(output,"3.23")+" times");
         System.out.println("------------- \t \t -------------");
-        System.out.println("Price 1.23 \t\t\t seen: "+new Main().nmbrOfOccurrences(output,"1.23")+" times");
         System.out.println();
         System.out.println("name: Bread \t\t seen: "+new Main().nmbrOfOccurrences(output,"bread")+" times");
         System.out.println("============= \t \t =============");
-        System.out.println("name: Price \t\t seen:  times");
+        System.out.println("Price 1.23 \t\t\t seen: "+new Main().nmbrOfOccurrences(output,"1.23")+" times");
+
         System.out.println("------------- \t \t -------------");
         System.out.println();
         System.out.println("name: Cookies \t\t seen: "+new Main().nmbrOfOccurrences(output,"cookies")+" times");
